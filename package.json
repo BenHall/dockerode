@@ -15,7 +15,7 @@
     "docker.io"
   ],
   "dependencies": {
-    "docker-modem": "0.2.x"
+    "docker-modem": "git://github.com/BenHall/docker-modem.git#connection-timeout"
   },
   "devDependencies": {
     "chai": "~1.7.0",
